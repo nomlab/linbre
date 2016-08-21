@@ -1,0 +1,16 @@
+/.bundle/
+/.yardoc
+/Gemfile.lock
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+#
+# Added from https://raw.github.com/github/gitignore/master/Ruby.gitignore
+#
+#
+# Added from /Users/nom/sys/bin/gem-new
+#
+/vendor
